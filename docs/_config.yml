@@ -1,4 +1,4 @@
-baseurl: '/'
+baseurl: '/inchain'
 permalink: pretty
 title: 'Jekyll Serif'
 
